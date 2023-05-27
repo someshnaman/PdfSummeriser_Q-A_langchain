@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+langchain
+pdfminer
+-e .
