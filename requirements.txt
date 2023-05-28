@@ -2,5 +2,9 @@ pandas
 numpy
 streamlit
 langchain
+streamlit-extras
+PyPDF2
+pypdf
+faiss-cpu
 pdfminer
 -e .
